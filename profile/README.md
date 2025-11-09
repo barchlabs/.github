@@ -1,12 +1,9 @@
-## Hi there 👋
+## BarchLabs
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/89079f15-8a06-4fdb-a53d-0780270e473c" 
+    alt="CodeX Banner" 
+    width="70%" 
+    style="border-radius:15px;"
+  />
