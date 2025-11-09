@@ -4,6 +4,6 @@
   <img 
     src="https://github.com/user-attachments/assets/89079f15-8a06-4fdb-a53d-0780270e473c" 
     alt="BarchLabs Banner" 
-    width="50%" 
+    width="60%" 
   />
 </p>
